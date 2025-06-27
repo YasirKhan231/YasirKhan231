@@ -11,13 +11,15 @@
 
 - 📫 How to reach me **yasirkhan0184@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1roVvfO0GqokwXcAEL1N_tq1S1aSTVaHu/view?usp=drive_link](https://drive.google.com/file/d/1roVvfO0GqokwXcAEL1N_tq1S1aSTVaHu/view?usp=drive_link)
+- 📄 Check out my PORTFOLIO [yasir-khan-397989234](yasir-khan-397989234)
+
+- ⚡ Fun fact **I think i am not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yasir_juned" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasir_juned" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yasir-khan-397989234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasir-khan-397989234/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/yasir_khan23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yasir_khan23/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yasir-khan-397989234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasir-khan-397989234" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yasir_khan23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yasir_khan23/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yk498mnov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yk498mnov" height="30" width="40" /></a>
 </p>
 
