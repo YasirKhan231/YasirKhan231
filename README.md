@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yasir khan</h1>
 <h3 align="center">yasir khan passionate developer </h3>
 
-🔭 I'm currently working on **personal projects  **
+🔭 I'm currently working on [personal projects  ](#)
 
-🤝 I'm looking for help with **Github-profile-readme-gnerator**
+🤝 I'm looking for help with [Github-profile-readme-gnerator](https://github-profile-readme-generator-eight.vercel.app/)
 
-🌱 I'm currently learning **React native **
+🌱 I'm currently learning React native 
 
-💬 Ask me about **Full stack development**
+💬 Ask me about Full stack development
 
-📫 How to reach me **yasirkhan0184@gmail.com**
+📫 How to reach me yasirkhan0184@gmail.com
 
 👨‍💻 All of my projects are available at [http://yasirkhan.xyz/](http://yasirkhan.xyz/)
 
@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Yasirkhan231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/github.svg" alt="Yasirkhan231" height="30" width="40" /></a>
-<a href="https://twitter.com/yasir_juned" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/twitter.svg" alt="yasir_juned" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yasir-khan-397989234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/linkedin.svg" alt="yasir-khan-397989234" height="30" width="40" /></a>
-<a href="https://leetcode.com/Yasir_khan23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/leetcode.svg" alt="Yasir_khan23" height="30" width="40" /></a>
-<a href="https://gfg.com/yk498mnov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/gfg.svg" alt="yk498mnov" height="30" width="40" /></a>
+<a href="https://github.com/Yasirkhan231" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Yasirkhan231" height="30" width="40" /></a>
+<a href="https://twitter.com/yasir_juned" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasir_juned" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yasir-khan-397989234" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasir-khan-397989234" height="30" width="40" /></a>
+<a href="https://leetcode.com/Yasir_khan23" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yasir_khan23" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/yk498mnov" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yk498mnov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
